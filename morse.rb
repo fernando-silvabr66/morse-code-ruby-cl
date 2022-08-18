@@ -98,7 +98,7 @@ def decode(message)
   words.join(' ')
 end
 
-puts 'Enter morse code:'
+puts 'Enter coded message:'
 
 input = gets.chomp
 
